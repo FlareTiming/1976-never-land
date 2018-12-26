@@ -1,0 +1,831 @@
+[
+  {
+    "taskName": "Circle ESS is Goal",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-32.93780000 deg",
+                "147.70970000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-07-13T12:00:00Z"
+    ],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Line ESS is not Goal",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "line": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.93780000 deg",
+              "147.70970000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-07-13T12:00:00Z"
+    ],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Line ESS is Goal",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "line": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-32.93780000 deg",
+                "147.70970000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-07-13T12:00:00Z"
+    ],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Line ESS with Epilogue",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "goal": {
+          "line": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.93780000 deg",
+              "147.70970000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-07-13T12:00:00Z"
+    ],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Circle ESS is not Goal",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.93780000 deg",
+              "147.70970000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-07-13T12:00:00Z"
+    ],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Circle ESS is Goal",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-32.93780000 deg",
+                "147.70970000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-07-13T12:00:00Z"
+    ],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Circle ESS with Epilogue",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.93780000 deg",
+              "147.70970000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "startGates": [
+      "2018-07-13T12:00:00Z"
+    ],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Open Distance on Heading",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": null,
+      "openKind": {
+        "open-mandatory": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-32.93780000 deg",
+                "147.70970000 deg"
+              ]
+            }
+          }
+        ],
+        "open-free": {
+          "vector": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ],
+            "target": [
+              "90.00000000 deg",
+              "0.00000000 deg"
+            ]
+          }
+        },
+        "prolog": []
+      }
+    },
+    "speedSection": null,
+    "stopped": null,
+    "startGates": [],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Open Distance",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336
+        }
+      ],
+      "raceKind": null,
+      "openKind": {
+        "open-mandatory": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-32.93780000 deg",
+                "147.70970000 deg"
+              ]
+            }
+          }
+        ],
+        "open-free": {
+          "star": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "prolog": []
+      }
+    },
+    "speedSection": null,
+    "stopped": null,
+    "startGates": [],
+    "absent": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  }
+]
