@@ -1,5 +1,6 @@
 {
   "civilId": "0",
+  "earthMath": "Haversines",
   "discipline": "hg",
   "location": "Kössen Austria",
   "to": "1976-09-12",
@@ -7,6 +8,15 @@
   "from": "1976-09-01",
   "utcOffset": {
     "timeZoneMinutes": 0
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.0005
   },
   "scoreBack": "900.000 s"
 }

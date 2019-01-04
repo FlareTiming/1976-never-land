@@ -7,25 +7,33 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": {
@@ -96,25 +104,33 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": {
@@ -186,25 +202,33 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": {
@@ -275,31 +299,41 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": {
@@ -381,25 +415,33 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": {
@@ -471,25 +513,33 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": {
@@ -560,31 +610,41 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": {
@@ -666,25 +726,33 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": null,
@@ -753,25 +821,33 @@
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
-          "lng": 147.91043
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
-          "lng": 147.7097
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
         },
         {
           "radius": "400.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
-          "lng": 147.9336
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
         }
       ],
       "raceKind": null,
