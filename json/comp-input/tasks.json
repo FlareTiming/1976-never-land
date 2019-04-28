@@ -85,10 +85,14 @@
       4
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-07-13T12:00:00Z"
     ],
-    "absent": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
@@ -183,10 +187,14 @@
       3
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-07-13T12:00:00Z"
     ],
-    "absent": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
@@ -280,10 +288,14 @@
       4
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-07-13T12:00:00Z"
     ],
-    "absent": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
@@ -292,7 +304,7 @@
     ]
   },
   {
-    "taskName": "Line ESS with Epilogue",
+    "taskName": "Line ESS with Epilogue (Race 1 Gate)",
     "zones": {
       "raw": [
         {
@@ -396,10 +408,253 @@
       3
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-07-13T12:00:00Z"
     ],
-    "absent": [],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Line ESS with Epilogue (Race 2 Gates)",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "goal": {
+          "line": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.93780000 deg",
+              "147.70970000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2018-07-13T12:00:00Z",
+      "2018-07-13T12:20:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2018-07-13T20:00:00Z",
+        "open": "2018-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "Line ESS with Epilogue (Elapsed)",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336,
+          "give": "399.8 m",
+          "alt": "230.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -32.9378,
+          "zoneName": "TRUND",
+          "lng": 147.7097,
+          "give": "400.2 m",
+          "alt": "257.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.12592,
+          "zoneName": "BOGAN",
+          "lng": 147.91043,
+          "give": "400.2 m",
+          "alt": "286.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": -33.3562,
+          "zoneName": "BMI023",
+          "lng": 147.9336,
+          "give": "400.2 m",
+          "alt": "230.000 m"
+        }
+      ],
+      "raceKind": {
+        "race": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "epilog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.12592000 deg",
+                "147.91043000 deg"
+              ]
+            }
+          }
+        ],
+        "goal": {
+          "line": {
+            "radius": "400.0 m",
+            "center": [
+              "-33.35620000 deg",
+              "147.93360000 deg"
+            ]
+          }
+        },
+        "race-ess": {
+          "cylinder": {
+            "radius": "400.0 m",
+            "center": [
+              "-32.93780000 deg",
+              "147.70970000 deg"
+            ]
+          }
+        },
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "-33.35620000 deg",
+                "147.93360000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      3
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
@@ -494,10 +749,14 @@
       3
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-07-13T12:00:00Z"
     ],
-    "absent": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
@@ -591,10 +850,14 @@
       4
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-07-13T12:00:00Z"
     ],
-    "absent": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
@@ -707,10 +970,14 @@
       3
     ],
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [
       "2018-07-13T12:00:00Z"
     ],
-    "absent": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
@@ -794,7 +1061,7 @@
               "147.93360000 deg"
             ],
             "target": [
-              "90.00000000 deg",
+              "0.00000000 deg",
               "0.00000000 deg"
             ]
           }
@@ -804,8 +1071,12 @@
     },
     "speedSection": null,
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [],
-    "absent": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
@@ -895,8 +1166,12 @@
     },
     "speedSection": null,
     "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
     "startGates": [],
-    "absent": [],
+    "penals": [],
     "zoneTimes": [
       {
         "close": "2018-07-13T20:00:00Z",
