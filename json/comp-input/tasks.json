@@ -4,35 +4,39 @@
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -98,42 +102,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Line ESS is not Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -200,42 +212,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Line ESS is Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -301,50 +321,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Line ESS with Epilogue (Race 1 Gate)",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -421,50 +450,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Line ESS with Epilogue (Race 2 Gates)",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -542,50 +580,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Line ESS with Epilogue (Elapsed)",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -660,42 +707,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Circle ESS is not Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -762,42 +817,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Circle ESS is Goal",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -863,50 +926,59 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Circle ESS with Epilogue",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -983,42 +1055,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Open Distance on Heading",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -1082,42 +1162,50 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "Open Distance",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "399.8 m",
           "alt": "230.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.12592,
           "zoneName": "BOGAN",
           "lng": 147.91043,
-          "give": "400.2 m",
           "alt": "286.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -32.9378,
           "zoneName": "TRUND",
           "lng": 147.7097,
-          "give": "400.2 m",
           "alt": "257.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": -33.3562,
           "zoneName": "BMI023",
           "lng": 147.9336,
-          "give": "400.2 m",
           "alt": "230.000 m"
         }
       ],
@@ -1177,6 +1265,10 @@
         "close": "2018-07-13T20:00:00Z",
         "open": "2018-07-13T12:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "earlyPenalty": "2 s",
+      "earliest": "300 s"
+    }
   }
 ]

@@ -16,7 +16,7 @@
   },
   "give": {
     "giveDistance": null,
-    "giveFraction": 0.0005
+    "giveFraction": 0.005
   },
   "scoreBack": "900.000 s"
 }
